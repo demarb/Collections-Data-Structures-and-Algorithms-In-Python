@@ -2,8 +2,6 @@
 Strings in Python are sequence of characters surrounded by double, single or even triple quotations.
 However a character is not a defined data type in Python, instead it is a string with length of 1.
 '''
-from types import new_class
-
 
 print("STRINGS:")
 a = "Hello Mark"
