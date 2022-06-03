@@ -8,6 +8,7 @@ A list of current implementations will be listed below.
 ## Data Types
 1. Numbers
 2. Strings
+3. Lists
 
 ## User Defined Data Structures
 
