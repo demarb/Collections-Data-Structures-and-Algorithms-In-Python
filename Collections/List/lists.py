@@ -30,7 +30,8 @@ Modifing Lists
 2. Appending to list : adding a list item to end of list
 3. Inserting new items to the list at specific position.
 4. Extending lists
-5. Removing list items with remove, pop and clear
+5. Removing list items with remove, pop, del and clear
+6. Deleting a list from memory
 
 '''
 
@@ -46,10 +47,10 @@ statesList.append("Connecticut")
 print(statesList) #['Hawaii', 'New York', 'California', 'Florida', 'Connecticut']
 print()
 
-#3. Inserting list items before specific index
+#3. Inserting list items at specific index
 print("INSERTING LISTS ITEMS")
 statesList.insert(2, "New Jersey")
-print(statesList) #['Hawaii', 'New York', 'California', 'Florida', 'Connecticut']
+print(statesList) #['Hawaii', 'New York', 'New Jersey', 'California', 'Florida', 'Connecticut']
 print()
 
 #4. Extending one list to another
