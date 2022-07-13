@@ -51,14 +51,14 @@ PACKING AND UNPACKING TUPLES
 When we assign values to a tuple, its called packing.
 The reverse can be done, where we assign the values in a tuple to individual variables. We call this unpacking.
 
-When unpacking tuples we can either unpack all the values to inviduals variables or unpack some to variables and the remaining to a seperate lists
+When unpacking tuples we can either unpack all the values to individual variables or unpack some to variables and the remaining to a separate list.
 '''
 
 print("PACKING AND UNPACKING TUPLES")
 studentAge = (14, 16, 13)
 print(studentAge) # (14, 16, 13)
 
-print("]tUnpacking to individual variables")
+print("\tUnpacking to individual variables")
 (markAge, matthewAge, jennaAge) = studentAge
 print(markAge) #14
 print(matthewAge) #16
@@ -129,9 +129,9 @@ phoneBrands2 = ("Samsung", "LG", "Apple", "Hyunai", "LG", "Blackberry")
 print(phoneBrands2) #('Samsung', 'LG', 'Apple', 'Hyunai', 'LG', 'Blackberry')
 
 print("\tcount() Method")
-print(phoneBrands2.count("LG")) #2
+print(phoneBrands2.count("LG")) # 2
 
 print("\tindex() Method")
-print(phoneBrands2.index("Hyunai")) #3
+print(phoneBrands2.index("Hyunai")) # 3
 
 print()
