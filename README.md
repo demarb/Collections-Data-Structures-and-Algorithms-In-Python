@@ -10,6 +10,7 @@ A list of current implementations will be listed below.
 2. Strings
 3. Lists
 4. Tuples
+5. Sets
 
 ## User Defined Data Structures
 
