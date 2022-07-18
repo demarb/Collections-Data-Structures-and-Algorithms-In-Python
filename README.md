@@ -11,6 +11,7 @@ A list of current implementations will be listed below.
 3. Lists
 4. Tuples
 5. Sets
+6. Dictionary
 
 ## User Defined Data Structures
 
